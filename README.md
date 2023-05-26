@@ -10,3 +10,6 @@ Developed a Python project using pandas, numpy, plotnine, and scikit-learn libra
 • Only resources used for the project were our class lectures and homework assignments
 
 • No known compiling or runtime errors
+
+# References
+• Used this dataset from this link: https://www.kaggle.com/datasets/danielgrijalvas/movies 
