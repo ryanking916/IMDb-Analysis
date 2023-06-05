@@ -8,6 +8,7 @@ Developed a Python project using pandas, numpy, plotnine, and scikit-learn libra
 • Assignment: Final Project - IMDb Movie Analysis
 
 ## Source Files
+* CPSC_392_Final_Project_King.pdf
 * 
 
 ## References
