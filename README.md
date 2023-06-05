@@ -9,7 +9,7 @@ Developed a Python project using pandas, numpy, plotnine, and scikit-learn libra
 
 ## Source Files
 * CPSC_392_Final_Project_King.pdf
-* 
+* CPSC 392 Final - Movie Industry.mp4
 
 ## References
 • Used this dataset from this link: https://www.kaggle.com/datasets/danielgrijalvas/movies
